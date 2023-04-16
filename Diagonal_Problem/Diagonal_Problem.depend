@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565783519 source:f:\embedded system course\my trials\diagonal_problem\main.c
+	<stdio.h>
+	<stdlib.h>
+

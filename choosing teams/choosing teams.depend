@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573130659 source:f:\embedded system course\my trials\choosing teams\main.c
+	<stdio.h>
+	<stdlib.h>
+
