@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572012547 source:f:\embedded system course\my trials\cat and mouse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
