@@ -1,0 +1,5 @@
+/Users/amr/Dropbox/[ALG'15] Materials/LABS/[ALG'15] Lab1/Materials/Programs/Fibonacci/Fibonacci/obj/Debug/Fibonacci.Form1.resources
+/Users/amr/Dropbox/[ALG'15] Materials/LABS/[ALG'15] Lab1/Materials/Programs/Fibonacci/Fibonacci/bin/Debug/Fibonacci.exe.mdb
+/Users/amr/Dropbox/[ALG'15] Materials/LABS/[ALG'15] Lab1/Materials/Programs/Fibonacci/Fibonacci/bin/Debug/Fibonacci.exe
+/Users/amr/Dropbox/[ALG'15] Materials/LABS/[ALG'15] Lab1/Materials/Programs/Fibonacci/Fibonacci/obj/Debug/Fibonacci.exe
+/Users/amr/Dropbox/[ALG'15] Materials/LABS/[ALG'15] Lab1/Materials/Programs/Fibonacci/Fibonacci/obj/Debug/Fibonacci.exe.mdb

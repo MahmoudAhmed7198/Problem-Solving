@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565062106 source:f:\embedded system course\my trials\get_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
